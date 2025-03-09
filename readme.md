@@ -2,7 +2,8 @@
 
 This is a repository documenting my solutions written in Python and C++ to the popular interview question compilation website, [Neetcode](https://neetcode.io/).
 
-# Core Skills[1]
+### Problem Categories
+
+Core Skills [1]
 
 [1]: https://github.com/KaidenHsu/Neetcode/Categories/CoreSkills.md
-
