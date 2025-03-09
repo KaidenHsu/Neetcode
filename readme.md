@@ -1,3 +1,8 @@
-![Neetcode](https://yt3.googleusercontent.com/9upX2EgqFhcGT3eeW-gPNHuAs5qMh66ULqXsCRHIHN7GkhPS_U3v78zXHbH7-fdrTWyQp90I=s900-c-k-c0x00ffffff-no-rj)
+![Neetcode](https://miro.medium.com/v2/resize:fit:1400/1*3OzdRa01O0k2tusICxE2mA.jpeg)
 
 This is a repository documenting my solutions written in Python and C++ to the popular interview question compilation website, [Neetcode](https://neetcode.io/).
+
+# Core Skills[1]
+
+[1]: https://github.com/KaidenHsu/Neetcode/Categories/CoreSkills.md
+
