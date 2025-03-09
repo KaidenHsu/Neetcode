@@ -4,6 +4,6 @@ This is a repository documenting my solutions written in Python and C++ to the p
 
 ### Problem Categories
 
-Core Skills [1]
+Core Skills[1]
 
 [1]: https://github.com/KaidenHsu/Neetcode/Categories/CoreSkills.md
