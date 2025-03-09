@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | Design Dynamic Array (Resizable Array) | Easy | [Solution][1.1] | |
 
-[1.1]: https://github.com/KaidenHsu/Neetcode/CoreSkills/ImplementDataStructures/DesignDynamicArray(ResizableArray).py
+[1.1]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/ImplementDataStructures/DesignDynamicArray(ResizableArray).py
 
 ## Sorting
 
@@ -14,4 +14,4 @@
 | --- | --- | --- | --- |
 | Insertion Sort | Easy | [Solution][2.1] | |
 
-[2.1]: https://github.com/KaidenHsu/Neetcode/CoreSkills/Sort/InsertionSort.py
+[2.1]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/Sort/InsertionSort.py
