@@ -8,7 +8,7 @@
 | Design Linked List | Easy | [Solution][1.2] | |
 
 [1.1]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/ImplementDataStructures/DesignDynamicArray(ResizableArray).py
-[1.1]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/ImplementDataStructures/DesignLinkedList.py
+[1.2]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/ImplementDataStructures/DesignLinkedList.py
 
 ## Sorting
 
