@@ -16,6 +16,8 @@
 | Problem | Level | Python | C++ |
 | --- | --- | --- | --- |
 | Insertion Sort | Easy | [Solution][2.1.1] | [Solution][2.1.2] |
+| Merge Sort | Medium | [Solution][2.2.1] | |
 
 [2.1.1]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/Sort/InsertionSort.py
 [2.1.2]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/Sort/InsertionSort.cpp
+[2.2.1]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/Sort/MergeSort.cpp
