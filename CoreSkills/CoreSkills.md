@@ -17,7 +17,7 @@
 | --- | --- | --- | --- |
 | Insertion Sort | Easy | [Solution][2.1.1] | [Solution][2.1.2] |
 | Merge Sort | Medium | [Solution][2.2.1] | |
-| Merge Sort | Medium | [Solution][2.3.1] | |
+| Quick Sort | Medium | [Solution][2.3.1] | |
 
 [2.1.1]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/Sort/InsertionSort.py
 [2.1.2]: https://github.com/KaidenHsu/Neetcode/blob/main/CoreSkills/Sort/InsertionSort.cpp
