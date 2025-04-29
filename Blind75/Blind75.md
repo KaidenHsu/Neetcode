@@ -1,6 +1,6 @@
 # Blind 75
 
-## Implement Data Structures
+## Arrays & Hashing
 
 | Problem | Level | Python | C++ |
 | --- | --- | --- | --- |
